@@ -1,0 +1,13 @@
+name: WoolGens
+version: '1.0-SNAPSHOT'
+main: its.fire.woolGens.WoolGens
+api-version: '1.21'
+authors: [ ItsFire ]
+description: This is the WoolGens plugin.
+commands:
+  vanish:
+    description: Toggles your visibility!
+    usage: /vanish
+  fly:
+    description: Toggles flight!
+    usage: /fly
