@@ -11,3 +11,18 @@ commands:
   fly:
     description: Toggles flight!
     usage: /fly
+  getwhitedye:
+    description: gives you a white dye!
+    usage: /getwhitedye
+  getorangedye:
+    description: gives you a orange dye!
+    usage: /getorangedye
+  getmagentadye:
+    description: gives you a magenta dye!
+    usage: /getmagentadye
+  sell:
+    description: WIP!
+    usage: /sell
+  sb:
+    description: shows scoreboard!
+    usage: /sb
